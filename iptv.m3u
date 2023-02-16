@@ -5,3 +5,5 @@ https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=a8d8e5fd68c0c439818a1f8a5ac7b2d2&volcTime=1676598855
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海", 上海新闻综合
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=c628b543c2fee91675d2d9529e608863&volcTime=1676599270
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海", 上海都市频道
+http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
