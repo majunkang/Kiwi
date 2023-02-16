@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/majunkang/Kiwi/main/epg.xml"
-#EXTINF:-1 , 上海教育电视台
+
+#EXTINF:-1 
+tvg-id="SHHAI-DONGFANG1" tvg-name="上海教育电视台" tvg-logo="logo1" group-title="上海" , 上海教育电视台
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1 , 东方卫视
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=a8d8e5fd68c0c439818a1f8a5ac7b2d2&volcTime=1676598855
