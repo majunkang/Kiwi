@@ -3,3 +3,5 @@
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1 , 东方卫视
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=a8d8e5fd68c0c439818a1f8a5ac7b2d2&volcTime=1676598855
+#EXTINF:-1 , 上海新闻综合
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=c628b543c2fee91675d2d9529e608863&volcTime=1676599270
