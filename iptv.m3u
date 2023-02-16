@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/majunkang/Kiwi/main/cc.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="上海教育电视台" tvg-logo="" group-title="上海",上海教育电视台
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海", 东方卫视
