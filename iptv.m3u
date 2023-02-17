@@ -7,5 +7,5 @@ https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=a8d8e5fd68c0c43981
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=c628b543c2fee91675d2d9529e608863&volcTime=1676599270
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海", 上海都市频道
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视", CCTV1
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视", CCTV15
+http://lihai.320.io:40220/rtp/225.1.4.216:1269
